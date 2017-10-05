@@ -15,3 +15,13 @@ Day 1:
 **Link to work** :
 
 **Thing(s) learned**:
+
+Day 2:
+------
+**Today's Progress** : Started the FCC Portfolio project.
+
+**Thoughts** :
+
+**Link to work** :
+
+**Thing(s) learned**:
